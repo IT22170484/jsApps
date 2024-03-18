@@ -1,6 +1,7 @@
 // text.js
 
 // Function to count the number of characters in a string
+print("Hello Sri lanka")
 function countCharacters(text) {
     return text.length;
 }
